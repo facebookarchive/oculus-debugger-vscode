@@ -4,4 +4,4 @@ Currently this repo is used only for submitting Oculus Debugger extension bugs f
 
 ### License
 
-Oculus Debugger is released under [Oculus License](./LICENSE).
+Oculus Debugger is released under [Oculus License](./LICENSE.txt).
